@@ -1,4 +1,4 @@
-![Metrics](https://github.com/jpazvd/jpazvd/blob/main/github-metrics.svg)
+![Metrics]([https://github.com/jpazvd/jpazvd/blob/main/github-metrics.svg](https://github.com/jpazvd/jpazvd/blob/main/github-metrics.svg))
 <!--
 **jpazvd/jpazvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
