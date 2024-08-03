@@ -4,7 +4,7 @@ I am [UNICEF’s first Chief Statistician](https://www.unicef.org/media/experts/
 
 Most of my publications can be found listed on [Google Scholar](https://scholar.google.com/citations?user=lTKXA78AAAAJ) or at the [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org/entities/person/360f7a2e-0784-56e1-acf4-7f805fd50257). A full list of my Stata ado is available at the [Boston College Statistical Software Components](https://ideas.repec.org/e/pwa88.html). 
 
-<img src="/github-metrics.svg" alt="Metrics" width="80%" height="80%">
+<img src="/github-metrics.svg" alt="Metrics" width="80%" height="500px">
 
 <!--
 **jpazvd/jpazvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
